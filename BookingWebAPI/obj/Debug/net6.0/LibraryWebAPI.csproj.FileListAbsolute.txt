@@ -1,0 +1,7 @@
+C:\Users\Dell\Downloads\Pasca_Andrei-Alexandru_Lab2-Lab9\Pasca_Andrei_Final_Project\LibraryWebAPI\obj\Debug\net6.0\LibraryWebAPI.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Pasca_Andrei-Alexandru_Lab2-Lab9\Pasca_Andrei_Final_Project\LibraryWebAPI\obj\Debug\net6.0\LibraryWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Pasca_Andrei-Alexandru_Lab2-Lab9\Pasca_Andrei_Final_Project\LibraryWebAPI\obj\Debug\net6.0\LibraryWebAPI.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Pasca_Andrei-Alexandru_Lab2-Lab9\Pasca_Andrei_Final_Project\LibraryWebAPI\obj\Debug\net6.0\LibraryWebAPI.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Pasca_Andrei-Alexandru_Lab2-Lab9\Pasca_Andrei_Final_Project\LibraryWebAPI\obj\Debug\net6.0\LibraryWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Pasca_Andrei-Alexandru_Lab2-Lab9\Pasca_Andrei_Final_Project\LibraryWebAPI\obj\Debug\net6.0\LibraryWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Downloads\Pasca_Andrei-Alexandru_Lab2-Lab9\Pasca_Andrei_Final_Project\LibraryWebAPI\obj\Debug\net6.0\LibraryWebAPI.MvcApplicationPartsAssemblyInfo.cache
